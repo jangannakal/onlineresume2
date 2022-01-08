@@ -63,24 +63,6 @@ table {
 
 
 
-body @font-face {
-    font-family: 'monospacemedium';
-    src: url('monospace.medium-webfont.woff2') format('woff2'),
-         url('monospace.medium-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
-
-
-body @font-face {
-    font-family: 'monospacebold';
-    src: url('monospace.bold-webfont.woff2') format('woff2'),
-         url('monospace.bold-webfont.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-}
-
 p { font-size: 1em; line-height: 1.4em; }
 h1 { font-size: 1.5em   }
 h2 { font-size: 1.8em }
