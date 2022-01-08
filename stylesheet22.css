@@ -69,9 +69,7 @@ body @font-face {
          url('monospace.medium-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
-
 
 
 
@@ -81,7 +79,6 @@ body @font-face {
          url('monospace.bold-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 
 p { font-size: 1em; line-height: 1.4em; }
